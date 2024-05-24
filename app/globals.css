@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.app-content {
+  padding-top: 64px;
+  /* padding-bottom: 2.5rem; */
+}
+
+.app-container {
+  position: relative;
+  min-height: 100vh;
+}
